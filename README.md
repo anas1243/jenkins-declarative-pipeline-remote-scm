@@ -1,0 +1,1 @@
+# This repo is for testing jenkins declarative pipelines with remote jenkins file on github
