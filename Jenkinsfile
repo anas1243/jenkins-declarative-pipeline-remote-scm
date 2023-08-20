@@ -3,7 +3,7 @@ pipeline {
     stages{
         stage('build'){
             steps{
-                echo "hey now brown cookies"
+                echo "hey now brown cookies!"
             }
         }
     }
